@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋,I'm Xoctye.
+![Xoctye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xoctye&show_icons=true&theme=tokyonight)
+
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xoctye/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoctye&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Xoctye&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
 <!--
 **Xoctye/Xoctye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

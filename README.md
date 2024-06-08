@@ -31,5 +31,3 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Xoctye/c
 
 ### My GitHub Stats
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoctye&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Xoctye&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
-
-- 📫 联系方式: 441904625@qq.com
